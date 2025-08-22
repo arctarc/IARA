@@ -18,13 +18,16 @@ IARA can be run locally on your device using Python and Streamlit.
 ```bash
 git clone git@github.com:arctarc/IARA.git
 cd IARA
+```
 
 ### 2. Install the requirements
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 3. Run the app
 
 ```bash
 streamlit run IARA.py
+```
