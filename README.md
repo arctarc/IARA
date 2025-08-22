@@ -13,20 +13,18 @@ Designed for public health officials, building managers, and all types of people
 
 IARA can be run locally on your device using Python and Streamlit.
 
----
-
 ### 1. Clone the repository
 
-'''bash
+```bash
 git clone git@github.com:arctarc/IARA.git
 cd IARA
 
 ### 2. Install the requirements
 
-'''bash
+```bash
 pip install -r requirements.txt
 
 ### 3. Run the app
 
-'''bash
+```bash
 streamlit run IARA.py
