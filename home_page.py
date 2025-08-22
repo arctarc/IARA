@@ -22,4 +22,4 @@ st.write("🌍 Designed for public health officials, building managers, and all 
 st.divider()
 
 st.write("👨‍💻 **Developed by:** Akthar Uzzaman")
-st.write("🔗 **GitHub Repository:**")
+st.write("🔗 **GitHub Repository:** https://github.com/arctarc/IARA")

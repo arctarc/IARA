@@ -648,7 +648,7 @@ with tab3:
     # Adding an alternate scenario where the Quanta Emission Rate has increased, this should encourage the user to further explore their data by changing their inputs.
     st.write("")
     st.write("In the above graph, we have captured the relationship between the duration of exposure and the estimated probability of infection.")
-    st.write("But what would this graph look like if your data were different?")
+    st.write("But what would this graph look like if your data was different?")
     wls_quanta_explr = st.checkbox("Show what would happen if we multiplied your current Quanta Emission Rate by 100", False) # User's can tick this checkbox to explore what changes an increase in Quanta emission rate would lead to.
 
     if wls_quanta_explr: # If the checkbox is ticked...
